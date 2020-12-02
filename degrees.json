@@ -1,0 +1,21 @@
+{
+  "my_college_degrees": [
+    {
+      "undergrad": {
+        "School": "Boston University - Questrom School of Business",
+        "Major": "Business",
+        "Type": "Bachelor of Science in Business Administration",
+        "Year Completed": 2008
+      }
+    },
+
+    {
+      "graduate":{
+        "School": "Boston University - Metropolitan College",
+        "Major": "Software Development",
+        "Type": "Master of Science in Software Development",
+        "Year Completed": 2021
+      }
+    }
+  ]
+}
