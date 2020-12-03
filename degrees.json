@@ -1,21 +1,17 @@
 {
   "my_college_degrees": [
     {
-      "undergrad": {
-        "School": "Boston University - Questrom School of Business",
-        "Major": "Business",
-        "Type": "Bachelor of Science in Business Administration",
-        "Year Complete": 2008
-      }
+      "School": "Boston University - Questrom School of Business",
+      "Major": "Business",
+      "Type": "Bachelor of Science in Business Administration",
+      "Year_Complete": 2008
     },
 
     {
-      "graduate":{
-        "School": "Boston University - Metropolitan College",
-        "Major": "Software Development",
-        "Type": "Master of Science in Software Development",
-        "Year Complete": 2021
-      }
+      "School": "Boston University - Metropolitan College",
+      "Major": "Software Development",
+      "Type": "Master of Science in Software Development",
+      "Year_Complete": 2021
     }
   ]
 }

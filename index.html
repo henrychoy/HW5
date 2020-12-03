@@ -3,15 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <title>AJAX and JSON</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <script defer src="javascript.js"></script>
 </head>
 <body>
 
-<h1>Henry's first page using AJAX and JSON!</h1>
+<main>
+    <h1>Henry's First Page Using AJAX and JSON!</h1>
+    <hr>
 
-<button id="btn">Get Degrees</button>
+    <p>
+        The button below uses AJAX to load my college degree info that is stored in the JSON file hosted here:
+        <a href="https://henrychoy.github.io/HW5/degrees.json" target="_blank">https://henrychoy.github.io/HW5/degrees.json</a>
+        <br>
+        <div id="note">Note: Button can only be pressed once.</div>
+    </p>
 
-<div id="display"></div>
+    <button id="btn">Get Degree Info</button>
+
+    <div id="display"></div>
+</main>
+
+
 
 </body>
 </html>
