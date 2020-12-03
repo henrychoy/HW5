@@ -5,7 +5,7 @@
         "School": "Boston University - Questrom School of Business",
         "Major": "Business",
         "Type": "Bachelor of Science in Business Administration",
-        "Year Completed": 2008
+        "Year Complete": 2008
       }
     },
 
@@ -14,7 +14,7 @@
         "School": "Boston University - Metropolitan College",
         "Major": "Software Development",
         "Type": "Master of Science in Software Development",
-        "Year Completed": 2021
+        "Year Complete": 2021
       }
     }
   ]
