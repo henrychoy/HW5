@@ -7,7 +7,7 @@ main{
     background-color: white;
     margin: 3em auto 3em auto;
     width: 50%;
-    height: 80vh;
+
     padding: 3em;
 
 }
@@ -22,9 +22,46 @@ button{
     padding: .5em;
     font-size: xx-large;
     background-color: #eaffce;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 button:hover{
     background-color: lightblue;
+    transition: .25s;
+}
+
+
+
+th, td{
+    padding: 5px 10px;
+    text-align: left;
+}
+
+td{
+    border-bottom: solid black 1px;
+}
+
+th{
+    text-transform: uppercase;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;
+}
+
+tr{
+    text-align: right;
+}
+
+td.row-name{
+    text-align: left;
+}
+
+tr.even{
+    background-color: lightgray;
+}
+
+tr:hover{
+    background-color: #c3e6e5;
     transition: .25s;
 }

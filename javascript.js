@@ -14,24 +14,21 @@ function loadDegrees() {
 
             let htmlString = "";
             for (let i=0; i < data.my_college_degrees.length; i++){
-                htmlString += "<p>School: " + data.my_college_degrees[i].School + "<br>" +
-                    "Major: " + data.my_college_degrees[i].Major + "<br>" +
-                        "Type: " + data.my_college_degrees[i].Type + "<br>" +
-                        "Year Complete: " + data.my_college_degrees[i].Year_Complete + "<br><br></p>";
+                htmlString += `<tr>
+                                <td>${data.my_college_degrees[i].School}</td>
+                                <td>${data.my_college_degrees[i].Major}</td>
+                                <td>${data.my_college_degrees[i].Type}</td>
+                                <td>${data.my_college_degrees[i].Year_Complete}</td>
+                               </tr>`
             }
-
 
             displayContainer.insertAdjacentHTML("beforeend", htmlString);
             document.getElementById("btn").disabled = true;
+        }
+        else{
+            console.log("Error loading data. Please reach out to Henry Choy.")
         }
     }
     request.send();
 
 }
-
-
-
-
-
-
-

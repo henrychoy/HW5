@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e753fd11-759d-49b6-ad63-92053ca9e673" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/degrees.json" beforeDir="false" afterPath="$PROJECT_DIR$/degrees.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1606923780604</updated>
       <workItem from="1606923781732" duration="3864000" />
-      <workItem from="1606955841372" duration="14257000" />
+      <workItem from="1606955841372" duration="15085000" />
+      <workItem from="1607038830990" duration="115000" />
+      <workItem from="1607195588249" duration="1507000" />
+      <workItem from="1607208062771" duration="4858000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="11" y="255" width="946" height="777" key="dock-window-1" timestamp="1607211484429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="11" y="255" width="946" height="777" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1607211484429" />
+    <state x="0" y="0" width="946" height="777" key="dock-window-2" timestamp="1607212355841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="946" height="777" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1607212355841" />
   </component>
 </project>
